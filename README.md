@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at kttch38@gmail.com
 
 ## Image
-![alt text]([http://url/to/img.png](https://th.bing.com/th/id/OIP.eJR8biRko_kJrLYHu6PFnwHaGB?rs=1&pid=ImgDetMain))
+![alt text](https://data1.ibtimes.co.in/en/full/598988/deadpool-one-most-successful-superhero-movies-all-time.jpg)
